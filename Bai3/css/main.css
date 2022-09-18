@@ -61,7 +61,8 @@ html {
 
 .site-title {
   font-size: 1.25rem;
-  line-height: 2.5rem; }
+  line-height: 2.5rem;
+font-family: roboto; }
 
 .nav-link {
   padding: 0;
@@ -147,9 +148,5 @@ footer a:not(.nav-link) {
       font-family: Roboto;
     }
     .h4{
-      font-family:roboto;
-    }
-    .h1
-    {
       font-family:roboto;
     }
